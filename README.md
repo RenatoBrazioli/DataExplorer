@@ -12,4 +12,4 @@ I've tried to look around a bit, and found the promising **rkanban** https://git
 
 Than I've stumbled upon an article by Martin Fowler "Don't Compare Averages" https://martinfowler.com/articles/dont-compare-averages.html that, in order to support the  statement, goes quite a long way in providing examples of R to plot basic diagrams.
 
-Therefore, I've decided to use it as a starting point, and evolve it (we'll see ...) to fit my needs
+Therefore, I've decided to use it as a starting point, and evolve it (we'll see ...) to fit my needs.
